@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AshishKumar-22
 - 👀 I’m interested in Web Development...
-- 🌱 I’m currently learning ...
 - 📫 reach me at ashishkumar4236@gmail.com
-- ⚡ Fun fact everything starts from nothing
+- ⚡ everything starts from nothing
 
 <!---
 AshishKumar-22/AshishKumar-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
