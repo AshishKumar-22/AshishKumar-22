@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshishKumar-22
+- 👋 Hii, I’m Ashish Kumar
 - 👀 I’m interested in Web Development...
 - 📫 reach me at ashishkumar4236@gmail.com
 - 🔄 everything starts from nothing
